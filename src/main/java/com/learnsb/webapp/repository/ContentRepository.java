@@ -2,6 +2,8 @@ package com.learnsb.webapp.repository;
 
 import com.learnsb.webapp.model.Content;
 import com.learnsb.webapp.model.Status;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.data.jdbc.repository.config.EnableJdbcRepositories;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.ListCrudRepository;
 import org.springframework.data.repository.query.Param;

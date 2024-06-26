@@ -14,18 +14,18 @@ import java.util.List;
 public class dataLoader implements CommandLineRunner {
 
     private final ContentRepository repository;
-    private final ObjectMapper objectMapper;
+    private final ObjectMapper objectmapper;
 
-    public dataLoader(ContentRepository repository, ObjectMapper objectMapper) {
+    public dataLoader(ContentRepository repository, ObjectMapper objectmapper) {
         this.repository = repository;
-        this.objectMapper = objectMapper;
+        this.objectmapper = objectmapper;
     }
 
     @Override
     public void run(String... args) throws Exception {
         if(repository.count() == 0) {
             try (InputStream inputStream = TypeReference.class.getResourceAsStream("/data/content.json")) {
-                repository.saveAll(objectMapper.readValue(inputStream,new TypeReference<List<Content>>(){}));
+                repository.saveAll(objectmapper.readValue(inputStream,new TypeReference<List<Content>>(){}));
             }
         }
     }
