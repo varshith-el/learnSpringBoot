@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Map;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import com.learnsb.webapp.config.contentCalenderProperties;
+
 @RestController
 public class HomeController {
 
