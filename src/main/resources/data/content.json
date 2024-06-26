@@ -1,0 +1,90 @@
+[{
+  "id": null,
+  "title": "Possessed",
+  "description": "A gripping mystery that will keep you on the edge of your seat.",
+  "status": "PUBLISHED",
+  "contentType": "COURSE",
+  "dateCreated": "2023-05-10T22:56:02",
+  "dateUpdated": "2024-04-05T21:21:56",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Knack ...and How to Get It, The",
+  "description": "A hilarious comedy about a group of friends on a road trip.",
+  "status": "IDEA",
+  "contentType": "VIDEO",
+  "dateCreated": "2023-05-26T19:23:24",
+  "dateUpdated": "2024-05-08T10:58:30",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Slackers",
+  "description": "A hilarious comedy about a group of friends on a road trip.",
+  "status": "PUBLISHED",
+  "contentType": "COURSE",
+  "dateCreated": "2024-04-01T12:29:17",
+  "dateUpdated": "2024-04-19T20:43:00",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Johnny Angel",
+  "description": "A thrilling action movie about a heist gone wrong.",
+  "status": "IDEA",
+  "contentType": "ARTICLE",
+  "dateCreated": "2024-04-14T07:46:26",
+  "dateUpdated": "2024-03-13T22:27:19",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Loose Change: Second Edition",
+  "description": "An epic fantasy adventure with dragons and magic.",
+  "status": "IDEA",
+  "contentType": "ARTICLE",
+  "dateCreated": "2023-01-02T12:13:43",
+  "dateUpdated": "2024-01-21T08:25:19",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Butley",
+  "description": "A gripping mystery that will keep you on the edge of your seat.",
+  "status": "COMPLETED",
+  "contentType": "COURSE",
+  "dateCreated": "2023-12-09T03:41:15",
+  "dateUpdated": "2024-04-23T06:08:01",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Lord of the Rings: The Return of the King, The",
+  "description": "A heartwarming romantic comedy set in a small town.",
+  "status": "PUBLISHED",
+  "contentType": "CONFERENCE_TALK",
+  "dateCreated": "2023-12-23T15:28:22",
+  "dateUpdated": "2024-03-08T17:15:55",
+  "url": ""
+}, {
+  "id": null,
+  "title": "Young Doctors in Love",
+  "description": "A heartwarming romantic comedy set in a small town.",
+  "status": "COMPLETED",
+  "contentType": "ARTICLE",
+  "dateCreated": "2024-05-31T06:56:53",
+  "dateUpdated": "2024-04-23T04:51:03",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Drunken Tai Chi (Siu taai gik)",
+  "description": "A gripping mystery that will keep you on the edge of your seat.",
+  "status": "IDEA",
+  "contentType": "CONFERENCE_TALK",
+  "dateCreated": "2023-11-13T02:09:52",
+  "dateUpdated": "2024-05-06T19:04:48",
+  "url": "example.com"
+}, {
+  "id": null,
+  "title": "Sasayaki (a.k.a. Moonlight Whispers) (Gekkô no sasayaki)",
+  "description": "A heartwarming romantic comedy set in a small town.",
+  "status": "COMPLETED",
+  "contentType": "COURSE",
+  "dateCreated": "2023-10-13T17:17:46",
+  "dateUpdated": "2024-04-22T07:04:05",
+  "url": "example.com"}]
